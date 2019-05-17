@@ -199,7 +199,7 @@ CREATE TABLE `members` (
 
 /*!40000 ALTER TABLE `members` DISABLE KEYS */;
 LOCK TABLES `members` WRITE;
-INSERT INTO `members` VALUES ('', 'admin', '5f4dcc3b5aa765d61d8327deb882cf99', '', '', '', '5', '', '', '', 'default', NULL);
+INSERT INTO `members` VALUES ('', 'admin', '21232f297a57a5a743894a0e4a801fc3', '', '', '', '5', '', '', '', 'default', NULL);
 
 UNLOCK TABLES;
 /*!40000 ALTER TABLE `members` ENABLE KEYS */;
